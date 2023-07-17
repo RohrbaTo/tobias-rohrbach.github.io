@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/  
+    url: "https://scholar.google.ch/citations?user=7ifThrUAAAAJ&hl=en" 
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_TobiasRohrbach2023_english_academic.pdf
     
 #  - title: "Guide"
  #   url: /markdown/
